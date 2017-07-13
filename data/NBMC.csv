@@ -1,0 +1,158 @@
+state,city,Call Letter
+AL,Birmingham,WIAT
+AL,Dothan,WDHN
+AL,Huntsville,WZDX
+AL,Mobile,"WFNA, WKRG"
+AL,Mobile,WKRG
+AZ,Phoenix,KASW
+AR,Fayetteville,KNWA
+AR,Fort Smith,KFTA
+AR,Little Rock,"KARK, KARZ, KLRT"
+AR,Little Rock,KARZ
+AR,Little Rock,KLRT
+AR,Pine Bluff,KASN
+CA,Bakersfield,"KGET, KKEY-LP"
+CA,Bakersfield,KKEY-LP
+CA,Fresno,"KGPE, KSEE"
+CA,Fresno,KSEE
+CA,San Francisco,KRON
+CO,Grand Junction,"KFQX, KGJT-CD, KREX"
+CO,Grand Junction,KGJT-CD
+CO,Grand Junction,KREX
+CO,Montrose,KREY
+CT,Hartford,"WCTX, WTNH"
+CT,Hartford,WTNH
+FL,Panama City,WMBB
+FL,Tampa,"WFLA, WTTA"
+FL,Tampa,WTTA
+GA,Augusta,WJBF
+GA,Columbus,WRBL
+GA,Savannah,WSAV
+HI,Honolulu,KHON
+IL,Bloomington,WYZZ
+IL,Champaign,WCIA
+IL,Peoria,WMBD
+IL,Rockford,"WQRF, WTVO"
+IL,Rockford,WTVO
+IL,Springfield,WCIX
+IN,Evansville,"WEHT, WTVW"
+IN,Evansville,WTVW
+IN,INpolis,"WISH, WNDY"
+IN,INpolis,WNDY
+IN,Terre Haute ,"WAWV, WTWO"
+IN,Terre Haute ,WTWO
+IA,Des Moines,"KCWI, WOI"
+IA,Des Moines,WOI
+IA,Mason City,KIMT
+IA,Quad Cities,"KGCW, KLJB, WHBF"
+IA,Quad Cities,KLJB
+IA,Quad Cities,WHBF
+IA,Sioux City,KCAU
+KS,Topeka,"KTKA, KTMJ-CD"
+KS,Topeka,KTMJ-CD
+KS,Wichita,KSNW
+LA,Alexandria / Natchez,WNTZ
+LA,Baton Rouge,"KZUP-CD, WBRL-CD, WGMB, WVLA"
+LA,Baton Rouge,WBRL-CD
+LA,Baton Rouge,WGMB 
+LA,Baton Rouge,WVLA
+LA,Monroe - El Dorado,"KARD, KTVE"
+LA,Monroe - El Dorado,KTVE
+LA,Shreveport,"KMSS, KSHV, KTAL"
+LA,Shreveport,KSHV
+LA,Shreveport,KTAL
+MD,Hagerstown,WHAG
+MA,Springfield,WWLP
+MI,Grand Rapids,"WOOD, WOTV, WXSP-CD"
+MI,Grand Rapids,WOTV
+MI,Grand Rapids,WXSP-CD
+MI,Marquette,WJMN
+MS,Hattiesburg,WHLT
+MS,Jackson,WJTV
+MO,Joplin,"KODE, KSNF"
+MO,Joplin,KSNF
+MO,Springfield,"KOLR, KOZL"
+MO,Springfield,KOZL
+MT,Billings,"KHMT, KSVI"
+MT,Billings,KSVI
+NV,Las Vegas,KLAS
+NY,Binghamton,"WBGH-CA, WIVT"
+NY,Binghamton,WIVT
+NY,Buffalo,"WIVB, WNLO"
+NY,Buffalo,WNLO
+NY,Elmira,WETM
+NY,Rochester,WROC
+NY,Syracuse,WSYR
+NY,Utica,"WFXV, WPNY-LP, WUTR"
+NY,Utica,WPNY-LP
+NY,Utica,WUTR
+NY,Watertown,WWTI
+NC,Greenville,WNCT
+NC,Raleigh/Durham,WNCN
+ND,Bismarck,KXMB
+ND,Dickinson,KXMA
+ND,Minot,KXMC
+ND,Williston,KXMD
+OH,Columbus,WCMH
+OH,Dayton,"WBDT, WDTN"
+OH,Dayton,WDTN
+OH,Youngstown,"WKBN, WYFX-LD, WYTV"
+OH,Youngstown,WYFX-LD
+OH,Youngstown,WYTV
+OR,Portland,KOIN
+PA,Altoona,WTAJ
+PA,Erie,"WFXP, WJET"
+PA,Erie,WJET
+PA,Harrisburg,WHTM
+PA,Wilkes Barre - Scranton,"WBRE, WYOU"
+PA,Wilkes Barre - Scranton,WYOU
+RI,Providence,"WNAC, WPRI"
+RI,Providence,WPRI
+SC,Asheville,WYCW
+SC,Charleston,WCBD
+SC,Myrtle Beach,WBTW
+SC,Spartanburg,WSPA
+TN,Jackson,WJKT
+TN,Johnson City,WJHL
+TN,Memphis,"WANT, WLMT"
+TN,Memphis,WLMT
+TX,Abilene,"KRBC, KTAB"
+TX,Abilene,KTAB
+TX,Amarillo,"KAMR, KCIT, KCPN-LP"
+TX,Amarillo,KCIT
+TX,Amarillo,KCPN-LP
+TX,Austin,"KBVO, KNVA, KXAN"
+TX,Austin,KNVA
+TX,Austin,KXAN
+TX,Brownsville-McAllen,KVEO
+TX,El Paso,KTSM
+TX,Lubbock,"KAMC, KLBK"
+TX,Lubbock,KLBK
+TX,Midland - Odessa,"KMID, KPEJ"
+TX,Midland - Odessa,KPEJ
+TX,San Angelo,"KLST, KSAN"
+TX,San Angelo,KSAN
+TX,Tyler-Longview,"KETK, KFXK, KLPN-LD, KTPN-LD"
+TX,Tyler-Longview,KFXK
+TX,Tyler-Longview,KLPN-LD
+TX,Tyler-Longview,KTPN-LD
+TX,Waco-Temple-Bryan-Killeen,"KWKT, KYLE"
+TX,Waco-Temple-Bryan-Killeen,KYLE
+TX,Wichita Falls,"KFDX, KJBO-LP, KJTL"
+TX,Wichita Falls,KJBO-LP
+TX,Wichita Falls,KJTL
+UT,Salt Lake City,"KTVX, KUCW"
+UT,Salt Lake City,KUCW
+VT,Burlington,"WFFF, WVNY"
+VT,Burlington,WVNY
+VA,Roanoke,"WFXR, WWCW"
+VA,Roanoke,WWCW
+VA,Portsmouth,WAVY
+VA,VA Beach,WVBT
+WV,Bluefield - Beckley,WVNS
+WV,Charleston - Huntington,WOWK
+WV,Clarksburg - Weston,WBOY
+WV,"Wheeling, WV - Steubenville, OH",WTRF
+WI,Green Bay,WFRV
+WI,La Crosse - Eau Claire,"WEUX, WLAX"
+WI,La Crosse - Eau Claire,WLAX
